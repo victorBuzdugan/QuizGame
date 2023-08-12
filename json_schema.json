@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Question",
+  "description": "A question for quiz game",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "description": "The question",
+        "type": "string",
+        "minLength": 1
+      },
+      "answ_good": {
+        "description": "The good answer",
+        "type": "string",
+        "minLength": 1
+      },
+      "answ_bad": {
+        "description": "The bad answers; 3 answers for level 1, then 1 answer for level 2, and 1 answer for level 3",
+        "type": "array",
+        "maxItems": 5,
+        "minItems": 5,
+        "uniqueItems": true,
+        "items": [
+          {
+            "description": "First level 1 bad answer",
+            "type": "string",
+            "minLength": 1
+          },
+          {
+            "description": "Second level 1 bad answer",
+            "type": "string",
+            "minLength": 1
+          },
+          {
+            "description": "Third level 1 bad answer",
+            "type": "string",
+            "minLength": 1
+          },
+          {
+            "description": "Level 2 bad answer",
+            "type": "string",
+            "minLength": 1
+          },
+          {
+            "description": "Level 3 bad answer",
+            "type": "string",
+            "minLength": 1
+          }
+        ]
+      }
+    },
+    "required": [
+      "name",
+      "answ_good",
+      "answ_bad"
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+[
+  {
+    "name": "What year did the Titanic sink in the Atlantic Ocean on 15 April, on its maiden voyage from Southampton?",
+    "answ_good": "1912",
+    "answ_bad": [
+      "1812",
+      "1698",
+      "1946",
+      "1908",
+      "1911"
+    ]
+  },
+  {
+    "name": "What is the name of the biggest technology company in South Korea?",
+    "answ_good": "Samsung",
+    "answ_bad": [
+      "Apple",
+      "Google",
+      "LG Electronics",
+      "Kia Motors",
+      "Hyundai"
+    ]
+  },
+  {
+    "name": "Which metal was discovered by Hans Christian Oersted in 1825?",
+    "answ_good": "Aluminium",
+    "answ_bad": [
+      "Helium",
+      "Quizor",
+      "Gold",
+      "Iron",
+      "Copper"
+    ]
+  },
+  {
+    "name": "What is the capital of Portugal?",
+    "answ_good": "Lisbon",
+    "answ_bad": [
+      "Europe",
+      "Portland",
+      "Brussels",
+      "Madrid",
+      "Porto"
+    ]
+  },
+  {
+    "name": "What is the chemical symbol for silver?",
+    "answ_good": "Ag",
+    "answ_bad": [
+      "Not an element",
+      "Au",
+      "Pt",
+      "Sl",
+      "Si"
+    ]
+  },
+  {
+    "name": "What did Al Capone\u2019s business card state his occupation was?",
+    "answ_good": "A used furniture salesman",
+    "answ_bad": [
+      "A used pillows salesman",
+      "Singer",
+      "Gangster",
+      "Driver",
+      "Businessman"
+    ]
+  },
+  {
+    "name": "In which year was The Godfather first released?",
+    "answ_good": "1972",
+    "answ_bad": [
+      "1918",
+      "2002",
+      "1989",
+      "1979",
+      "1973"
+    ]
+  },
+  {
+    "name": "Which actor won the best actor Oscar for the films Philadelphia (1993) and Forrest Gump (1994)?",
+    "answ_good": "Tom Hanks",
+    "answ_bad": [
+      "Tommy Hank",
+      "Bruce Willis",
+      "Johny Depp",
+      "Robin Wright",
+      "Gary Sinise"
+    ]
+  },
+  {
+    "name": "Who was the BBC\u2019s \u2018Sports Personality of the Year\u2019 in 2001?",
+    "answ_good": "David Beckham",
+    "answ_bad": [
+      "David Bowie",
+      "Andy Murray",
+      "Nigel Mansell",
+      "Ronnie O'Sullivan",
+      "Michael Owen"
+    ]
+  },
+  {
+    "name": "How many hearts does an Octopus Have?",
+    "answ_good": "3",
+    "answ_bad": [
+      "None",
+      "At least 1",
+      "8",
+      "4",
+      "2"
+    ]
+  },
+  {
+    "name": "How many years will it take a spacecraft launched from Earth to arrive at Pluto?",
+    "answ_good": "Nine and a half years",
+    "answ_bad": [
+      "Two years",
+      "Twelve years",
+      "Five and a half years",
+      "Eight and a half years",
+      "Nine years"
+    ]
+  },
+  {
+    "name": "What percentage of the mass of the solar system is in the Sun?",
+    "answ_good": "99%",
+    "answ_bad": [
+      "2%",
+      "50%",
+      "79%",
+      "84%",
+      "93%"
+    ]
+  },
+  {
+    "name": "What's the average surface temperature on Venus?",
+    "answ_good": "460\u00b0C",
+    "answ_bad": [
+      "22\u00b0C",
+      "1360\u00b0C",
+      "810\u00b0C",
+      "530\u00b0C",
+      "487\u00b0C"
+    ]
+  },
+  {
+    "name": "What is the name of the band with the following members: John Deacon, Brian May, Freddie Mercury, Roger Taylor?",
+    "answ_good": "Queen",
+    "answ_bad": [
+      "Beach Boys",
+      "Backsteer Boys",
+      "The Queen Boys",
+      "The Queen",
+      "Smile"
+    ]
+  },
+  {
+    "name": "Where in the world is Leonardo da Vinci\u2019s Mona Lisa exhibited?",
+    "answ_good": "The Louvre (Paris, France)",
+    "answ_bad": [
+      "MoMA (New York City, New York)",
+      "The Reina Sof\u00eda (Madrid, Spain)",
+      "Galleria dell\u2019Accademia (Florence, Italy)",
+      "Mus\u00e9e Marmottan Monet (Paris, France)",
+      "Musee d'Orsay (Paris, France)"
+    ]
+  },
+  {
+    "name": "In which country can you find: Giza Pyramid and the Great Sphinx?",
+    "answ_good": "Egypt",
+    "answ_bad": [
+      "France",
+      "UAE",
+      "Israel",
+      "Cairo",
+      "Libya"
+    ]
+  },
+  {
+    "name": "In which country can you find: Colosseum?",
+    "answ_good": "Italy",
+    "answ_bad": [
+      "France",
+      "Milan",
+      "Venice",
+      "Naples",
+      "Rome"
+    ]
+  },
+  {
+    "name": "In which country can you find: Statue of Liberty?",
+    "answ_good": "United States of America",
+    "answ_bad": [
+      "Mexico",
+      "Canada",
+      "London",
+      "Washington",
+      "New York"
+    ]
+  },
+  {
+    "name": "In which country can you find: Taj Mahal?",
+    "answ_good": "India",
+    "answ_bad": [
+      "China",
+      "UAE",
+      "Iran",
+      "Thailand",
+      "Pakistan"
+    ]
+  },
+  {
+    "name": "In which country can you find: Stonehenge?",
+    "answ_good": "United Kingdom",
+    "answ_bad": [
+      "France",
+      "Belgium",
+      "Ireland",
+      "Wales",
+      "England"
+    ]
+  },
+  {
+    "name": "When the First World War ended?",
+    "answ_good": "1918",
+    "answ_bad": [
+      "1856",
+      "1945",
+      "1938",
+      "1914",
+      "1919"
+    ]
+  },
+  {
+    "name": "When the Second World War ended?",
+    "answ_good": "1945",
+    "answ_bad": [
+      "1856",
+      "1918",
+      "1914",
+      "1938",
+      "1946"
+    ]
+  },
+  {
+    "name": "What year was the very first model of the iPhone released?",
+    "answ_good": "2007",
+    "answ_bad": [
+      "1998",
+      "2003",
+      "2017",
+      "2012",
+      "2008"
+    ]
+  },
+  {
+    "name": "What is often seen as the smallest unit of memory?",
+    "answ_good": "kilobyte",
+    "answ_bad": [
+      "gigabyte",
+      "megabyte",
+      "megabit",
+      "byte",
+      "kilobit"
+    ]
+  },
+  {
+    "name": "Which email service is owned by Microsoft?",
+    "answ_good": "Hotmail",
+    "answ_bad": [
+      "GMail",
+      "iCloud",
+      "MMail",
+      "Outlook Mail",
+      "Microsoft Mail"
+    ]
+  },
+  {
+    "name": "Who was the first woman to win a Nobel Prize (in 1903)?",
+    "answ_good": "Marie Curie",
+    "answ_bad": [
+      "Marilyn Monroe",
+      "Jane Goodall",
+      "Lisa Meitner",
+      "Maria Goeppert Mayer",
+      "Dian Fossey"
+    ]
+  },
+  {
+    "name": "Which company owns Bugatti, Lamborghini. Audi, Porsche, and Ducati?",
+    "answ_good": "Volkswagen",
+    "answ_bad": [
+      "Ford",
+      "Fiat",
+      "Renault",
+      "BMW",
+      "Mercedes"
+    ]
+  },
+  {
+    "name": "How many parts (screws and bolts included) does the average car have?",
+    "answ_good": "30,000",
+    "answ_bad": [
+      "980",
+      "10,000",
+      "46,870",
+      "25,700",
+      "31,870"
+    ]
+  },
+  {
+    "name": "Which racer holds the record for the most Grand Prix wins?",
+    "answ_good": "Lewis Hamilton",
+    "answ_bad": [
+      "Jacques Villeneuve",
+      "Mika H\u00e4kkinen",
+      "Nelson Piquet",
+      "Ayrton Senna",
+      "Michael Schumacher"
+    ]
+  },
+  {
+    "name": "Which country invented tea?",
+    "answ_good": "China",
+    "answ_bad": [
+      "USA",
+      "India",
+      "Russia",
+      "France",
+      "United Kingdom"
+    ]
+  },
+  {
+    "name": "Which country produces the most coffee in the world?",
+    "answ_good": "Brazil",
+    "answ_bad": [
+      "China",
+      "Madagascar",
+      "Peru",
+      "Vietnam",
+      "Colombia"
+    ]
+  },
+  {
+    "name": "What is the smallest country in the world?",
+    "answ_good": "Vatican City",
+    "answ_bad": [
+      "Malta",
+      "Marshall Islands",
+      "Liechtenstein",
+      "San Marino",
+      "Monaco"
+    ]
+  },
+  {
+    "name": "Which continent is the largest",
+    "answ_good": "Asia",
+    "answ_bad": [
+      "Europe",
+      "Antarctica",
+      "North America",
+      "South America",
+      "Africa"
+    ]
+  },
+  {
+    "name": "What is the name of the world\u2019s longest river?",
+    "answ_good": "The Nile",
+    "answ_bad": [
+      "The Danube",
+      "Rio Grande",
+      "The Yellow River",
+      "Mississippi",
+      "The Amazon"
+    ]
+  },
+  {
+    "name": "In which country Adolph Hitler was born?",
+    "answ_good": "Austria",
+    "answ_bad": [
+      "Poland",
+      "Belgium",
+      "Liechtenstein",
+      "Switzerland",
+      "Germany"
+    ]
+  },
+  {
+    "name": "What was the name of the group Justin Timberlake used to be part of?",
+    "answ_good": "N\u2019 SYNC",
+    "answ_bad": [
+      "Boyz II Men",
+      "New Kids on the Block",
+      "Take That",
+      "5ive",
+      "Backstreet Boys"
+    ]
+  },
+  {
+    "name": "Which country did AC/DC originate in?",
+    "answ_good": "Australia",
+    "answ_bad": [
+      "Sweden",
+      "Germany",
+      "Canada",
+      "USA",
+      "United Kingdom"
+    ]
+  },
+  {
+    "name": "What is the most viewed YouTube video?",
+    "answ_good": "Baby Shark Dance",
+    "answ_bad": [
+      "Waka Waka (This Time for Africa)",
+      "Axel F",
+      "Gangnam Style",
+      "Shape of You",
+      "Despacito"
+    ]
+  },
+  {
+    "name": "What was the name of the Egyptian God of the Sun?",
+    "answ_good": "Ra",
+    "answ_bad": [
+      "Ptah",
+      "Anubis",
+      "Horus",
+      "Isis",
+      "Osiris"
+    ]
+  },
+  {
+    "name": "What is the tallest building in the world?",
+    "answ_good": "Burj Khalifa, Dubai",
+    "answ_bad": [
+      "The Shard, London",
+      "Petronas Twin Towers, Kuala Lumpur",
+      "Canton Tower, Guangzhou",
+      "Tokyo Skytree, Tokyo",
+      "Petronius, Gulf of Mexico"
+    ]
+  },
+  {
+    "name": "What\u2019s the fastest land animal in the world?",
+    "answ_good": "Cheetah",
+    "answ_bad": [
+      "Horse",
+      "Lion",
+      "Kangaroo",
+      "Pronghorn",
+      "Thomson's gazelle"
+    ]
+  }
+]
