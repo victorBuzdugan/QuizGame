@@ -7,7 +7,7 @@ import shutil
 import pytest
 from pytest import CaptureFixture, LogCaptureFixture, MonkeyPatch
 
-from quiz import (add_question, delete_question, list_questions, open_json,
+from project import (add_question, delete_question, list_questions, open_json,
                   parse_args, play_game, save_json)
 
 TEST_FILE = "questions_test.json"
@@ -280,7 +280,7 @@ def test_open_json_validation_error(
     os.remove(TEST_FILE)
 
 
-def test_save_json_validation_ok(capsys: CaptureFixture[str]):
+def test_save_json(capsys: CaptureFixture[str]):
     questions_data = VALID_QUESTION
     assert save_json(questions_data, TEST_FILE)
     assert "Element was not validated" not in capsys.readouterr().out
@@ -422,7 +422,7 @@ def test_list_questions(capsys: CaptureFixture[str]):
                 in captured.out)
 
 
-def test_add_question_1(capsys: CaptureFixture, monkeypatch: MonkeyPatch):
+def test_add_question(capsys: CaptureFixture, monkeypatch: MonkeyPatch):
     question = VALID_QUESTION[0]
     responses = iter([
         question["name"],
@@ -454,7 +454,7 @@ def test_add_question_1(capsys: CaptureFixture, monkeypatch: MonkeyPatch):
     assert not captured.err
 
 
-def test_add_question_2(
+def test_add_question_with_one_retry(
         capsys: CaptureFixture,
         monkeypatch: MonkeyPatch,
         caplog: LogCaptureFixture):
@@ -543,7 +543,7 @@ def test_play_game_score_0(
                     break
 
 
-def test_play_game_score_10(
+def test_play_game(
         capsys: CaptureFixture,
         monkeypatch: MonkeyPatch,
         caplog: LogCaptureFixture):
